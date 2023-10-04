@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99e42925-6f78-4071-8cc7-f1f2a1f974b1" name="Changes" comment="Exercise 2 cartaSim">
-      <change afterPath="$PROJECT_DIR$/src/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecommerce/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecommerce/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecommerce/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Market.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Market.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecommerce/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecommerce/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ecommerce/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ecommerce/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
