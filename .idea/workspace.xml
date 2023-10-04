@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99e42925-6f78-4071-8cc7-f1f2a1f974b1" name="Changes" comment="Exercise 1 rettangoli">
-      <change afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teefonia/CartaSim.java" afterDir="false" />
+    <list default="true" id="99e42925-6f78-4071-8cc7-f1f2a1f974b1" name="Changes" comment="Exercise 2 cartaSim">
+      <change afterPath="$PROJECT_DIR$/src/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ecommerce/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ecommerce/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ecommerce/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +60,20 @@
       <option name="project" value="LOCAL" />
       <updated>1696426688594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exercise 2 cartaSim">
+      <option name="closed" value="true" />
+      <created>1696427735285</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696427735285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercise 1 rettangoli" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise 1 rettangoli" />
+    <MESSAGE value="Exercise 2 cartaSim" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise 2 cartaSim" />
   </component>
 </project>
