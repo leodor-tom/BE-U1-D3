@@ -8,9 +8,6 @@ public class Market {
         Article mario = new Article("Mario l'uomo comune", 100, 1000);
         Article sedia = new Article("la migliore sedia", 350, 5)      ;
         Client sgaragagarro = new Client("Franco", "Carasau", "franco.Eja@sardinia.sr");
-        int codice = sgaragagarro.getCodiceCliente();
-        String[] elenco = {"mario", "banana", "sedia"};
-
         Cart carrello = new Cart( sgaragagarro);
         carrello.aggiungiArticolo(mario);
         carrello.aggiungiArticolo(banana);
